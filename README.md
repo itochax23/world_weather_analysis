@@ -12,5 +12,11 @@ The feedback from the first iteration showed that we needed to add the weather d
 
 We retrieved data, created a custom travel destinations map, and from there a travel itinerary map. Feedback showed that visualizing the cities and hotels was incredibly important for users in making quick decisions about their destination plans instead of looking at a giant list of places they might want to go. 
 
+### Table view vs itinerary map view
+
+![Table view](Resources/Weather_database.png)
+
+![Itinerary map view](Vacation_Itinerary/WeatherPy_travel_map_markers.png)
+
 ## Summary
 Limitations of this data as reported by users include that knowing the rating and price information of the hotels would be a key way to help them select if they wanted to commit to the trip. This would be important if certain places wanted to be seen or highlighted on the map for potential customers in this app, and would help build confidence in the quality of the experiences these cities and hotels provide. Customers would also like to see a photo of the location in the input box that displays when a city/hotel is selected, to get a better idea of the country and its weather.
