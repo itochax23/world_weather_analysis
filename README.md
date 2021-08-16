@@ -6,7 +6,7 @@ Our goal was to collect data, analyze it with visualizations, and then create a 
 We created randomized numbers to represent latitudes and longitudes in tuples, then explored the correlations between weather in different latitudes and longitudes to look for ideal conditions. It was helpful to visualize these as scatterplots, and understand weather patterns, if any.
 We then used an API to match those locations with the nearest city, removing rows that did not compute.  We took that list of cities, mapped them using another API, and found location information about nearby hotels. 
 
-The feedback from the first iteration showed that we needed to add the weather description to the weather data we'd already retrieved. Then, allow users to give input statements to filter the data for their weather preferences, which will be used to identify potential travel destinations and nearby hotels. From the list of potential travel destinations, a user can choose four cities to create a travel itinerary - ideally within driving distance. Finally, using the Google Maps Directions API, you will create a travel route between the four cities as well as a marker layer map.
+The feedback from the first iteration showed that we needed to add the weather description to the weather data we'd already retrieved. Then, allow users to give input statements to filter the data for their weather preferences, which will be used to identify potential travel destinations and nearby hotels. From the list of potential travel destinations, a user can choose four cities to create a travel itinerary - ideally within driving distance. Finally, using the Google Maps Directions API, we created a travel route between the four cities as well as a marker layer map.
 
 ## Analysis
 
